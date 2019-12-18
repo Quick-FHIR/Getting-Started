@@ -6,7 +6,7 @@ Quick FHIR provides a powerful API gateway and developer portal for developing, 
 
 1. Open https://www-apicdevpus.ad.prolifics.com/2966/quick-fhir/ in your browser.
 
-![register-screen](screens/RegisterUser.jpg)
+![alt-text](screens/RegisterUser.jpg)
 
 2. Click on the **Create account** link.
 
@@ -18,13 +18,17 @@ Quick FHIR provides a powerful API gateway and developer portal for developing, 
 * Consumer organization
 * Password
 
-4. Click on Sign up
+4. Click on **Sign up**
 
 5. You will receive an activation email to the email address you specified. Click on the link in the email.
 
 6. Your user is now activated! You will be able to sign in with this user using the **Sign in** link
 
 ## Explore the API Products
+
+1. Click on the 
+
+![alt-text](screens/APIProducts.jpg)
 
 ## Explore the APIs
 
