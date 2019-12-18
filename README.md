@@ -28,14 +28,14 @@ Quick FHIR provides a powerful API gateway and developer portal for developing, 
 
 1. Click on the **API Products** link.
 
+![alt-text](screens/APIProducts.jpg)
+
 2. You'll then see the following API products listed.
 
 * **Cloudant FHIR Database** : Provides a sample of 18 FHIR APIs with a Cloudant database back-end to allow you to test applications that require FHIR endpoints for those APIs.
 * **Consent Guarded Cloudant FHIR Database** : Same as above, but specifically for third parties that require access to the same APIs, but that require consent from the data owners before they are able to access their data.
 * **Consent** : API for allowing data owners to provide consent to third parties allowing them to access their data.
 * **IBM FHIR Server** : Provides a sample of 18 FHIR APIs with an IBM FHIR server back-end that allows testing where validation of the messages is important.
-
-![alt-text](screens/APIProducts.jpg)
 
 ## Explore the APIs
 
