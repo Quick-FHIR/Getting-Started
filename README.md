@@ -8,9 +8,21 @@ Quick FHIR provides a powerful API gateway and developer portal for developing, 
 
 ![register-screen](screens/RegisterUser.jpg)
 
-2. Click on the Sign Up link.
+2. Click on the **Create account** link.
 
-3. ...
+3. Fill out the following details
+* Username
+* Email address
+* First Name
+* Last Name
+* Consumer organization
+* Password
+
+4. Click on Sign up
+
+5. You will receive an activation email to the email address you specified. Click on the link in the email.
+
+6. Your user is now activated! You will be able to sign in with this user using the **Sign in** link
 
 ## Explore the API Products
 
