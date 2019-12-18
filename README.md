@@ -4,6 +4,8 @@ Quick FHIR provides a powerful API gateway and developer portal for developing, 
 
 ## Register
 
+[register-screen](screens/Register.jpeg)
+
 ## Explore the API Products
 
 ## Explore the APIs
