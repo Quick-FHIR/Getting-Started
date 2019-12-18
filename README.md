@@ -6,7 +6,7 @@ Quick FHIR provides a powerful API gateway and developer portal for developing, 
 
 1. Open https://www-apicdevpus.ad.prolifics.com/2966/quick-fhir/ in your browser.
 
-![register-screen](screens/Register.jpg)
+![register-screen](screens/RegisterUser.jpg)
 
 2. Click on the Sign Up link.
 
