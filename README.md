@@ -40,11 +40,16 @@ Follow the steps below to experience a guided walk-through of the developer port
 * **IBM FHIR Server** : Provides a sample of 18 FHIR APIs with an IBM FHIR server back-end that allows testing where validation of the messages is important.
 
 ## Explore the APIs
+...
 
 ## Create your Application
+...
 
 ## Subscribe to an API Product
+...
 
 ## Try an API!
+...
 
 ## Learn More
+...
