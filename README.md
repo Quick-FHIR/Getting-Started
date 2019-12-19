@@ -2,6 +2,8 @@
 
 Quick FHIR provides a powerful API gateway and developer portal for developing, publishing, securing and socializing FHIR-based APIs - either for exposing FHIR compliant systems or for integrating with non-FHIR compliant systems.
 
+Follow the steps below to experience a guided walk-through of the developer portal.
+
 ## Register
 
 1. Open https://www-apicdevpus.ad.prolifics.com/2966/quick-fhir/ in your browser.
